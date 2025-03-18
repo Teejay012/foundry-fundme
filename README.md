@@ -1,4 +1,4 @@
-# Foundry FundMe Smart CXontract
+# Foundry FundMe Smart Contract
 My First smart contract project that allow users donate to the  contract securely :)
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/user/repo/ci.yml)
