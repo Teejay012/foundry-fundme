@@ -1,3 +1,31 @@
+# Foundry FundMe Smart CXontract
+My First smart contract project that allow users donate to the  contract securely :)
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/user/repo/ci.yml)
+![License](https://img.shields.io/github/license/user/repo)
+
+## Features
+- 🔥 It allow users fund the contract
+- 🛍️ It allows only the owner withdraw the funds
+- 🔥 100% test
+- 📱 Gas well Optimised
+- 🔗 Deployed to Sepolia Testnet
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Teejay012/foundry-fundme.git
+   cd foundry-fundme
+
+2. Install dependencies:
+   ```sh
+   npm install
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
